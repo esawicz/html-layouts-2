@@ -1,0 +1,49 @@
+html, body {
+	background-color: white;
+	margin: 20px;
+}
+
+.top-box {
+	margin-bottom: 20px;
+	width: 100%;
+	background-color: gray;
+	padding: 20px;
+}
+
+.button-red {
+	background-color: red;
+	color: white;
+	height: 50px;
+	width: 75px;
+}
+
+.button-blue {
+	background-color: blue;
+	color: white;
+	height: 50px;
+	width: 75px;
+}
+
+.bottom-box {
+	width: 100%;
+	background-color: gray;
+	padding: 20px;
+}
+
+.image-box {
+	width: 100%;
+}
+
+footer {
+	background-color: black;
+	margin-top: 10px;
+	color: white;
+	display: flex;
+	justify-content: flex-end;
+	width: 106%
+	padding-right: 10px;
+}
+
+p {
+	text-indent: 10px;
+}
